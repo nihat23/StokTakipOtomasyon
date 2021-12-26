@@ -1,0 +1,17 @@
+H:\Derslerim\VB\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+H:\Derslerim\VB\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+H:\Derslerim\VB\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.AssemblyReference.cache
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmusteriekle.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmusteriListeleme.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmKategori.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmMarka.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmUrunEkleme.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmUrunListeleme.resources
+H:\Derslerim\VB\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.frmlSatisListeleme.resources
